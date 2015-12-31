@@ -37,5 +37,5 @@ Here are some notable competitions to get you started:
 
 - [Google Code Jam](https://code.google.com/codejam/)
 - [CodeChef Competitions](http://www.codechef.com/contests)
-- [Project Euler](http://www.codechef.com/contests)
-- [online programming contests](http://www.codechef.com/contests)
+- [Project Euler](https://projecteuler.net/)
+- [online programming contests](http://www.makeuseof.com/tag/8-onlineprogramming-contests-challenge-win/)
