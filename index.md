@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ayakashi's Blog!
-tagline: enjoy the life
+tagline: Stop whine and choose action
 ---
 {% include JB/setup %}
 

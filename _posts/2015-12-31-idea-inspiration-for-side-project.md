@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Idea inspiration for side project"
+title: "Idea Inspiration For Side Project"
 description: ""
 category: 
 tags: []
 ---
 {% include JB/setup %}
+
+先引用在**湾区日报**推送的文章里看到的几句话：
+What the smartest people do on the weekend is what everyone else will do during the week in ten years.
+The future is already here — it's just not very evenly distributed.
+The next big thing will start out looking like a toy.  
+
+***那么从哪里可以获取side project的灵感呢？***
+<br>
 
 ### Create A Web Or Mobile App
 
@@ -39,3 +47,4 @@ Here are some notable competitions to get you started:
 - [CodeChef Competitions](http://www.codechef.com/contests)
 - [Project Euler](https://projecteuler.net/)
 - [online programming contests](http://www.makeuseof.com/tag/8-onlineprogramming-contests-challenge-win/)
+- [Reddit’s Daily Programmer SubReddit](https://www.reddit.com/r/dailyprogrammer)

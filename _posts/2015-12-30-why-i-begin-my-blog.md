@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "为什么我终于开始写博客"
+title: "Why I Begin My Blog"
 description: ""
 category: 
 tags: []
