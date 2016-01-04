@@ -7,5 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-### 命令行使用
+### tiling windows manager
+awesome, i3有空在弄, 今天装了下没弄好
 
+###
